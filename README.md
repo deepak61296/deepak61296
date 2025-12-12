@@ -1,52 +1,35 @@
 # Hey, I'm Deepak 👋
 
-**Firmware Engineer** building autonomous drone systems and embedded solutions.
-
-Final year CS student at Chandigarh University, working full-time at **Airbotix Technology** — customizing ArduPilot firmware, developing GCS for multi-UAV swarms, and integrating sensor payloads for commercial UAV operations.
+**Final year CS student** at Chandigarh University, passionate about drone systems and embedded development.
 
 ---
 
-### What I Work On
+### Experience
 
-**Flight Systems** — ArduPilot firmware customization, PID tuning, sensor fusion, MAVLink protocol  
-**Embedded Development** — STM32, ESP32, Pixhawk FC, real-time control systems  
-**Ground Control** — Custom GCS development, telemetry systems, swarm coordination  
-**Robotics** — ROS2, Gazebo simulation, computer vision for autonomous navigation
+**Airbotix Technology** — Firmware Engineer *(Jun 2025 – Present)*  
+Customizing ArduPilot firmware, developing GCS for multi-UAV swarms, integrating sensor payloads
+
+**Exobot Dynamics** — Robotics Engineer Intern *(Nov 2024 – Jan 2025)*  
+PID tuning for bionic limb systems, real-time feedback loops on microcontrollers
+
+**IIT Guwahati** — Summer Intern *(Jun 2024 – Jul 2024)*  
+Built UAV for foreign object detection on runways
 
 ---
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+### Projects
 
 **DEESHA** 🇮🇳  
-India's first indigenous flight controller built on VEGA Aries V2 processor. Patented design with real-time orientation processing and plug-and-play integration.
-
+India's first indigenous flight controller on VEGA Aries V2 processor. Patented.  
 `Embedded C` `RISC-V` `Sensor Fusion`
 
-</td>
-<td width="50%">
-
 **AURA**  
-Autonomous medical delivery UAV with web-integrated API. Achieved 50% faster delivery times and 70% reduction in manual intervention.
-
+Autonomous medical delivery UAV with web API — 50% faster deliveries, 70% less manual intervention.  
 `Python` `DroneKit` `PyMAVLink` `ArduPilot`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **KONOSUBA** 🏆  
-Award-winning underwater UUV for Gujarat Robofest. Optimized for aquatic exploration and autonomous navigation.
-
-`C++` `Python` `Robotics` `Fusion 360`
-
-</td>
-</tr>
-</table>
+Award-winning underwater UUV — Gujarat Robofest winner, ₹50,000 prize.  
+`C++` `Python` `Robotics`
 
 ---
 
@@ -57,8 +40,16 @@ Autopilot       ArduPilot • MAVProxy • Mission Planner • QGroundControl
 Languages       C++ • Python • Embedded C
 Hardware        Pixhawk • F4/F7/H7 FCs • ESP32 • STM32 • Jetson Nano • RPi
 Frameworks      ROS2 • Gazebo • DroneKit • PyMAVLink
-Tools           Git • VS Code
 ```
+
+---
+
+### Achievements
+
+🏅 Patent granted — DEESHA Flight Controller  
+🥇 1st Place — GCON-VEGATHON at IIT Guwahati  
+🥇 1st Place — Technology Entrepreneurship, ISB Mohali  
+🏆 17+ Hackathon wins  
 
 ---
 
@@ -70,4 +61,4 @@ Tools           Git • VS Code
 
 ---
 
-<sub>Open to collaborating on drone/robotics projects and ArduPilot contributions.</sub>
+<sub>Looking to contribute to open-source drone/robotics projects.</sub>
