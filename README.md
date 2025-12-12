@@ -20,7 +20,7 @@ Built UAV for foreign object detection on runways
 ### Projects
 
 **DEESHA** 🇮🇳  
-India's first indigenous flight controller on VEGA Aries V2 processor. Patented.  
+indigenous flight controller on VEGA Aries V2 processor. Patented.  
 `Embedded C` `RISC-V` `Sensor Fusion`
 
 **AURA**  
