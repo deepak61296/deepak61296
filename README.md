@@ -7,7 +7,7 @@
 ### Experience
 
 **Airbotix Technology** — Firmware Engineer *(Jun 2025 – Present)*  
-Customizing ArduPilot firmware, developing GCS for multi-UAV swarms, integrating sensor payloads
+Developing custom firmware for uavs, developing GCS for multi-UAV swarms, integrating sensor payloads
 
 **Exobot Dynamics** — Robotics Engineer Intern *(Nov 2024 – Jan 2025)*  
 PID tuning for bionic limb systems, real-time feedback loops on microcontrollers
