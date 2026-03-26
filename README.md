@@ -31,7 +31,7 @@ indigenous flight controller on VEGA Aries V2 processor. Patented.
 Autonomous medical delivery UAV with web API — 50% faster deliveries, 70% less manual intervention.  
 `Python` `DroneKit` `PyMAVLink` `ArduPilot`
 
-**KONOSUBA** 🏆  
+**KONOSUBA** 
 Award-winning underwater UUV — Gujarat Robofest winner, ₹50,000 prize.  
 `C++` `Python` `Robotics`
 
