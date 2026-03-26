@@ -19,11 +19,11 @@ Built UAV for foreign object detection on runways
 
 ### Projects
 
-**Ardupilot offline ai chat backend** 🇮🇳  
+**Ardupilot offline ai chat backend** 
 an ai agent backend for ardupilot which integrates with mission planner , mavproxy , qgc and can control drone using nlp commands using offline tuned ai llm models  
 `c++` `python` `llm`
 
-**DEESHA** 🇮🇳  
+**DEESHA** 
 indigenous flight controller on VEGA Aries V2 processor. Patented.  
 `Embedded C` `RISC-V` `Sensor Fusion`
 
