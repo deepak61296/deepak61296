@@ -16,7 +16,7 @@ I'm a firmware engineer working on drones, based in India. Most of what I do is 
 
 ## Projects
 
-**[mavlink-mcp](https://github.com/deepak61296/mavlink-mcp)**: lets an LLM agent fly an ArduPilot drone over MAVLink. Flight tools are off by default, and it refuses any write to geofence or failsafe params, whatever the prompt says. On PyPI. [Demo](https://www.youtube.com/watch?v=pyfqyfYUces)
+**[mavlink-mcp](https://github.com/deepak61296/mavlink-mcp)**: lets an LLM agent fly full missions on an ArduPilot drone. It plans the route, flies it, looks through the camera and decides what to do next, all over MAVLink. On PyPI. [Demo](https://www.youtube.com/watch?v=pyfqyfYUces)
 
 **[Companion health failsafe](https://github.com/deepak61296/ap-companion-health-monitor-failsafe)**: ArduPilot has no idea when the companion computer hangs or dies mid-flight. This adds a heartbeat from the companion and a real failsafe on the flight controller. [Demo](https://www.youtube.com/watch?v=GweYXp5yXuU)
 
