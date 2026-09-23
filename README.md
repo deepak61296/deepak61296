@@ -26,6 +26,8 @@ I'm a firmware engineer from India. I build software for drones and robots: the 
 
 Firmware engineer at Airbotix Technology since June 2025. I write drone firmware and a ground station that flies many drones at once.
 
+Summer research intern at IIT Guwahati in 2024. Built autonomous drones with ArduPilot and pymavlink, including one that checks airport runways for debris.
+
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/deepak-popli) | [Email](mailto:deepakpopli002@gmail.com)
