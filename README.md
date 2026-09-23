@@ -30,4 +30,4 @@ Summer research intern at IIT Guwahati in 2024. Built autonomous drones with Ard
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/deepak-popli) | [Email](mailto:deepakpopli002@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/deepakpopli) | [Email](mailto:deepakpopli002@gmail.com)
